@@ -14,9 +14,10 @@ section {
 }
 
 section div{
-    background:red;
+    background:chartreuse;
     margin: 10px;
     border:1px solid rgb(155, 137, 104);
+    border:1px solid rgb(0, 255, 255);
     /* width: 200px; */
     height: 200px;
     flex:2;
