@@ -12,9 +12,9 @@ h1 {
     font-family: "Times New Roman";
 }
 h2 {
-    color: chartreuse;
+    color: rgb(37, 63, 10);
     font-size: 20 px;
-    transform:rotatey(180deg)
+    
     
 }
 
@@ -33,7 +33,7 @@ span:hover{
 
 div {
     color: black;
-    padding: 10px;
+    padding: 40px;
     border: 1px solid black;
     margin: 10px;
     text-align: center;
