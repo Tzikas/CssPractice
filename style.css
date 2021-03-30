@@ -1,0 +1,65 @@
+*{
+    transition: all 1s;
+}
+
+a{
+    font-size:50px;
+}
+
+h1 {
+    color: #aa4365;
+    font-size: 20px;
+    font-family: "Times New Roman";
+}
+h2 {
+    color: chartreuse;
+    font-size: 20 px;
+    transform:rotatey(180deg)
+    
+}
+
+main div h1 {
+    color: #8089FF;
+    margin: 20px
+}
+
+main span h1 {
+    color: #8089FF;
+}
+
+span:hover{
+    transform: r
+}
+
+div {
+    color: black;
+    padding: 10px;
+    border: 1px solid black;
+    margin: 10px;
+    text-align: center;
+    letter-spacing: 2.5h2px;
+}
+
+div:hover{
+   color: rgb(201, 152, 152); 
+   padding: 30px;
+}
+
+.thingymagingy {
+    color: white;
+    background-color: #8089ff;
+}
+
+#specialMagingy {
+    background-color: pink;
+}
+
+
+
+h6{
+    color:rgb(255, 192, 203)
+}
+
+span:hover{
+    transform: rotate(0.5turn);
+}
