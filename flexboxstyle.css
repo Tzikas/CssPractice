@@ -16,10 +16,10 @@ section {
 section div{
     background:red;
     margin: 10px;
-    border:1px solid orange;
+    border:1px solid rgb(155, 137, 104);
     /* width: 200px; */
     height: 200px;
-    flex:1;
+    flex:2;
     /* text-align:center; */
 
     display:flex;
@@ -28,12 +28,12 @@ section div{
 }
 
 .notRed{
-    background:blue;
-    flex:5;
+    background:rgb(255, 208, 52);
+    flex:3;
 }
 
 .notRedOrBlue{
-    flex:3;
+    flex:2;
     background: pink;
 
 }
