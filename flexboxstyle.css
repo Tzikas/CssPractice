@@ -16,7 +16,7 @@ section {
 section div{
     background:red;
     margin: 10px;
-    border:1px solid orange;
+    border:1px solid rgb(0, 255, 255);
     /* width: 200px; */
     height: 200px;
     flex:1;
